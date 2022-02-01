@@ -10,13 +10,8 @@ function buttonIcon(){
 }
 
 function changeTheme(){
-    if(body.classList[0]){
-        body.classList.remove("theme");
-        buttonIcon();
-    }else{
-        body.classList.add("theme");
-        buttonIcon();
-    }
+    body.classList.toggle("light");
+    buttonIcon();
 }
 
 changeButton.addEventListener("click", changeTheme);
