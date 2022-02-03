@@ -27,6 +27,8 @@ body{
 
 .main h3{
     z-index: 9999;
+    font-size: 1.8em;
+    margin: 10px;
 }
 
 .main h3 span{
@@ -41,7 +43,7 @@ body{
     border-radius: 20px;
     background-color: white;
     cursor: pointer;
-    color: rgb(165, 165, 165);
+    color: rgb(0, 0, 0);
     font-size: 1em;
     font-weight: 500;
     top: 50%;
@@ -51,7 +53,7 @@ body{
 }
 
 .main #clickme:hover{
-    background-color: rgb(224, 70, 70);
+    background-color: rgb(255, 255, 255);
     color: black;
 }
 
