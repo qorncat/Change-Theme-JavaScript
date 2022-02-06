@@ -10,3 +10,5 @@
 #### Theme Switcher Online Demo: https://coderdal.github.io/JavaScript-Projects/Switch%20Theme/
 
 #### CountDown Timer: https://coderdal.github.io/JavaScript-Projects/CountDown%20Timer/
+
+#### Scroll Top: https://coderdal.github.io/JavaScript-Projects/Scroll%20Top/
